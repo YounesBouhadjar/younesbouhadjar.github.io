@@ -20,3 +20,5 @@ title: Presentations
   * conference: Bernstein, Berlin, Germany, 2019
 * Constraints on sequence processing speed in biological neuronal networks
   * conference: International Conference on Neuromorphic Systems (ICONS), Knoxville, United States, 2019
+
+**The slides of the talks will be uploaded soon**
