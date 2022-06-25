@@ -12,6 +12,8 @@ title: Presentations
 
 # Posters
 
+* Sequence learning in a spiking neural network with memristive synapses
+  * *conference*: Materials, devices and systems for neuromorphic computing (MatNeC), **best poster prize**, Groningen, Netherlands, 2022
 * Sequence learning, prediction, and generation in networks of spiking neurons
   * *conference*: Organiztion for Computational Neuroscience (OCNS), Online, 2021
 * Sequence learning, prediction, and generation in networks of spiking neurons
