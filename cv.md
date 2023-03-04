@@ -22,8 +22,8 @@ You can find an full CV here ([November2022](Resume.pdf))
 
 * Doctoral Researcher, Jülich, research center
   * Developed a model for sequence learning, prediction, and generation in networks of spiking neurons
-  * Studying probabilistic sequence processing in networks of spiking neurons
-  * Studying the functional aspects of memristive devices in neuromorphic computing
+  * Studied probabilistic sequence processing in networks of spiking neurons
+  * Studied the functional aspects of memristive devices in neuromorphic computing
 
 * Research intern, IBM Almaden Research Center
   * Developed and implemented a memory-augmented neural network model inspired by the human working memory <https://arxiv.org/pdf/1809.11087.pdf>
