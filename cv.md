@@ -7,7 +7,7 @@ You can find an full CV here ([November2022](Resume.pdf))
 
 # Education 
 
-* Ph.D. candidate, Jülich, Germany
+* Ph.D. in Neuromorphic Engineering, Jülich, Germany
   * Thesis: sequence learning in networks of spiking neurons
   * Supervisors: Dr. Tom Tetzlaff & Dr. Dirk J. Wouters
 
