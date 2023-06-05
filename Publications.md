@@ -18,7 +18,7 @@ title: Publications
 # Proceedings
 
 * Siegel, S., Ziegler, T., Bouhadjar, Y., Tetzlaff, T., Waser, R., Dittmann, R., & Wouters, D. (2023). Demonstration of neuromorphic sequence learning on a memristive array. [In Proceedings of the 2023 Annual Neuro-Inspired Computational Elements Conference](https://doi.org/10.1145/3584954.3585000).
-Benmeziane, H., Ounnoughene, A. Z., Hamzaoui, I., & Bouhadjar, Y. (2023). Skip Connections in Spiking Neural Networks: An Analysis of Their Effect on Network Training. arXiv preprint [arXiv:2303.13563](https://arxiv.org/abs/2303.13563).
+* Benmeziane, H., Ounnoughene, A. Z., Hamzaoui, I., & Bouhadjar, Y. (2023). Skip Connections in Spiking Neural Networks: An Analysis of Their Effect on Network Training. arXiv preprint [arXiv:2303.13563](https://arxiv.org/abs/2303.13563).
 * Bouhadjar, Y., Diesmann, M., Waser, R., Wouters, D. J., & Tetzlaff, T. (2019). Constraints on sequence processing speed in biological neuronal networks. [In Proceedings of the International Conference on Neuromorphic Systems(pp. 1-9)](https://dl.acm.org/doi/abs/10.1145/3354265.3354281).
 * Marois, V., Jayram, T. S., Albouy, V., Kornuta, T., Bouhadjar, Y., & Ozcan, A. S. (2018). On transfer learning using a MAC model variant. arXiv preprint [arXiv:1811.06529](https://arxiv.org/pdf/1811.06529.pdf).
 * Kornuta, T., Marois, V., McAvoy, R. L., Bouhadjar, Y., Asseman, A., Albouy, V., ... & Ozcan, A. S. (2018). Accelerating Machine Learning Research with MI-Prometheus, [manuscript](https://openreview.net/pdf?id=rkxVOvH3FQ).
