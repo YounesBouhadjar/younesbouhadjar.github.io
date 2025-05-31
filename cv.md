@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 
-You can find an full CV here ([Mai2025](Resume.pdf))
+You can find my CV here ([Mai2025](Resume.pdf))
 
 # Education 
 
