@@ -3,12 +3,16 @@ layout: page
 title: Publications
 ---
 
+I will shortly provide a description of the See also my [Google Scholar](https://scholar.google.fr/citations?user=WG7vHwYAAAAJ&hl=en) or [Orcid](https://orcid.org/0000-0003-4367-8236) pages. My dissertation is published [here](https://publications.rwth-aachen.de/record/955632).
+
 # Journals
 
-* Siegel, S., Bouhadjar, Y., Tetzlaff, T., Waser, R., Dittmann, R., & Wouters, D. J. (2023). System model of neuromorphic sequence learning on a memristive crossbar array. [Neuromorphic Computing and Engineering](https://doi.org/10.1088/2634-4386/acca45).
-* Bouhadjar, Y., Wouters, D. J., Diesmann, M., and Tetzlaff T. (2023). Coherent noise enables probabilistic sequence replay in spiking neural networks. [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010989)
-* Bouhadjar, Y., Wouters, D. J., Diesmann, M., & Tetzlaff, T. (2022). Sequence learning, prediction, and replay in networks of spiking neurons. [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010233).
-* Oberländer, J., Bouhadjar, Y., & Morrison, A. (2022). Learning and replaying spatiotemporal sequences: A replication study. [Frontiers in Integrative Neuroscience](https://doi.org/10.3389/fnint.2022.974177).
+* **Benchmark developments**
+
+    * Siegel, S., Bouhadjar, Y., Tetzlaff, T., Waser, R., Dittmann, R., & Wouters, D. J. (2023). System model of neuromorphic sequence learning on a memristive crossbar array. [Neuromorphic Computing and Engineering](https://doi.org/10.1088/2634-4386/acca45).
+    * Bouhadjar, Y., Wouters, D. J., Diesmann, M., and Tetzlaff T. (2023). Coherent noise enables probabilistic sequence replay in spiking neural networks. [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010989)
+    * Bouhadjar, Y., Wouters, D. J., Diesmann, M., & Tetzlaff, T. (2022). Sequence learning, prediction, and replay in networks of spiking neurons. [PloS Computational Biology](https://doi.org/10.1371/journal.pcbi.1010233).
+    * Oberländer, J., Bouhadjar, Y., & Morrison, A. (2022). Learning and replaying spatiotemporal sequences: A replication study. [Frontiers in Integrative Neuroscience](https://doi.org/10.3389/fnint.2022.974177).
 
 # Preprints
 
