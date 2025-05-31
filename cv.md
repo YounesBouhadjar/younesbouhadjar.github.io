@@ -3,34 +3,24 @@ layout: page
 title: CV
 ---
 
-You can find an full CV here ([November2022](Resume.pdf))
+You can find an full CV here ([Mai2025](Resume.pdf))
 
 # Education 
 
-* Ph.D. in Neuromorphic Engineering, Jülich, Germany
-  * Thesis: sequence learning in networks of spiking neurons
-  * Supervisors: Dr. Tom Tetzlaff & Dr. Dirk J. Wouters
+* Ph.D in Neuromorphic Computing, [RWTH Aachen University](https://www.rwth-aachen.de/), Germany
+  * [Thesis](https://publications.rwth-aachen.de/record/955632): brain inspired sequence learning algorithm and foundations of a memristive hardware implementation
 
-* M.S. in Micro & Nanotechnologies for integrated systems, Phelma INPG, France
+* M.S. in [Micro & Nanotechnologies for integrated systems](https://nanotech.grenoble-inp.fr)
   * Joint degree between EPFL, Switzerland; Phelma INPG, France; and Politecnico di Torino, Italy
-  * Thesis: differentiable working memory
-  * Supervisors: Dr. Jayram Thathachar & Dr. Liliana Buda-Prejbeanu
 
-* B.S. in Physics and Electronics, Phelma INPG, France
+* B.S. in [Physics and Electronics](https://phelma.grenoble-inp.fr/), Phelma INPG, France
 
 # Work
 
-* Doctoral Researcher, Jülich, research center
-  * Developed a model for sequence learning, prediction, and generation in networks of spiking neurons
-  * Studied probabilistic sequence processing in networks of spiking neurons
-  * Studied the functional aspects of memristive devices in neuromorphic computing
+* Postdoctoral Researcher at [Neuromorphic Software Ecosystems](https://www.fz-juelich.de/en/pgi/pgi-15), Jülich Research Center, Germany
 
-* Research intern, IBM Almaden Research Center
-  * Developed and implemented a memory-augmented neural network model inspired by the human working memory <https://arxiv.org/pdf/1809.11087.pdf>
-  * Implemented psychometric tests designed for human working memory and applied to our artificial model, which showed superior perfor-
-mance compared to the state-of-the-art (i.e. LSTM, Differentiable Neural Computer)
-  * Implemented machine learning models for visual question answering (VQA)
-  * Designed and implemented a machine learning framework: <https://github.com/IBM/mi-prometheus>
+* Doctoral Researcher at [Computational and Systems Neuroscience](https://www.fz-juelich.de/inm/inm-6/EN/Home/home_node_INM6.html) and [Electronic Materials Institute](https://www.fz-juelich.de/pgi/pgi-7/EN/Home/home_node.html), Jülich Research Center, Germany
 
-* Research intern, IBM T. J. Watson Research Center
-  * Developed a custom software for operating a novel optical sensor, processing the data and applying fitting routines for noise removal.
+* Research Intern, [IBM Almaden Research Center](https://research.ibm.com/labs/almaden)
+
+* Research Intern, [IBM T. J. Watson Research Center](https://research.ibm.com/labs/yorktown-heights)
